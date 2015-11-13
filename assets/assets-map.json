@@ -1,0 +1,13 @@
+{
+  "index.entry": {
+    "js": "http://127.0.0.1:9527/public/index.entry-37f7bf98fcfd2cd68c5d.js",
+    "css": "http://127.0.0.1:9527/public/index.entry-37f7bf98fcfd2cd68c5d.css"
+  },
+  "step.entry": {
+    "js": "http://127.0.0.1:9527/public/step.entry-663f0121e48dcffe752b.js",
+    "css": "http://127.0.0.1:9527/public/step.entry-663f0121e48dcffe752b.css"
+  },
+  "commons": {
+    "js": "http://127.0.0.1:9527/public/commons-dfee86c425cf5aab9c1b.js"
+  }
+}
